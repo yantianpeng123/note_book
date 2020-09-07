@@ -40,7 +40,7 @@
 1. ​	计算高级语言的类型主要有编译性和解释性两种，而java语言是两种类型的结合。
 2. Java首先利用文本编辑器编写java源程序，源文件的后缀名成为.java,再利用编译器(javac)将源程序编译成字节码文件，字节码文件的后缀名为.class，最后利用虚拟机解释执行。
 
-![图解java编译](/Users/yantianpeng/Desktop/note_book/java/note/images/java编译过程图解.jpg)
+![图解java编译](./images/java编译过程图解.jpg)
 
 ## JVM，JRE和JDK的区别
 
@@ -49,7 +49,7 @@
 3. ![图解jvm](/Users/yantianpeng/Desktop/note_book/java/note/images/图解jvm.jpg)
 4. JRE:包含java虚拟机，库函数，运行java应用程序所必需的文件
 5. JDK:包含JRE，以及增加编译器和调试器等用于程序开发的文件
-6. ![图解](/Users/yantianpeng/Desktop/note_book/java/note/images/jvm，jre，jdk.jpg)
+6. ![图解](./images/jvm，jre，jdk.jpg)
 
 ## JDK下载和环境变量配置
 
